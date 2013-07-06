@@ -1,0 +1,6 @@
+To Do List
+
+Fix load position to include map.width/height.
+Change animation to only when moving.
+Create windows/dialogue boxes.
+Create menu layout.
