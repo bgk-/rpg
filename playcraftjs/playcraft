@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Playcraft Testing </title>
+    </head>
+    <script src="js/jquery-1.10.1.min.js"></script>
+    <script src="playcraftjs/dist/playcraft-0.5.6.min.js">
+    
+    <body>
+
+    </body>
+</html>

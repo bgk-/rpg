@@ -1,0 +1,22 @@
+#canvas{
+    width:600px;
+    height:400px;
+}
+
+html, body{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+
+
+@font-face { 
+    font-family: Munro;
+    font-size: 20px;
+    src: local('Munro'), url(../fonts/munro_small.ttf); 
+    text-rendering: optimizeLegibility;    
+}
+
+p {
+    font-family: Munro;
+}
